@@ -51,7 +51,7 @@ Ultimately, **ridge regression** would be the better fit in real-world scenarios
 
 ## Live Demo
 
-[Live Streamlit App](https://ai4allg16d-jznwalqkp7bva9k2dqg3ge.streamlit.app/)
+[Live Streamlit App](https://ai4allg16d-wgdou8nvrvwiif4fu2udip.streamlit.app/)
 
 ---
 
