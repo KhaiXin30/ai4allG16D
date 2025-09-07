@@ -12,7 +12,6 @@ Cyberattacks are growing in frequency, severity, and financial impact. However, 
 
 ## Key Results
 
-- Cleaned and preprocessed global cybersecurity data (Kaggle 2015–2024).
 - Built a neural network and ridge regression model to predict financial losses.
 - Achieved a Mean Absolute Error (MAE) of 24.96 on test data.
 - Integrated user input interface via Streamlit to allow scenario testing.
